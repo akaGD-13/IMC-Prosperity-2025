@@ -17,7 +17,7 @@ text2
 <details>
 <summary><h2>round 4</h2></summary>
 
-## manual
+### manual
 
 - previous round result given:
 
@@ -34,7 +34,7 @@ text2
 | 73         | 4           | 24.060     | 26015.68068 |
 | 17         | 1           | 7.539      | 19908.65441 |
 
-- This round calculation: the target percentage is the percentage that it will excell the cost.
+- This round calculation: the target percentage is the percentage that it will exceed the cost.
 
 | Multiplier | Inhabitants | 2nd Target % | 3rd Target % |
 |------------|-------------|--------------|--------------|
@@ -64,7 +64,8 @@ sum of percentage of 2nd suitcase: 125.6
 sum of percentage of 3rd suitcase: 17.8
 
 
-- From here we can see that the sum of percenrage for 2nd suitcase is greater than 100 (%) where as that of 3rd suitcase is significantly lower. Therefor, I am going to choose the 3rd suitcase since the sharp ratio is too low. 
+
+- From here we can see that the sum of percenrage for 2nd suitcase is greater than 100 (%) where as that of 3rd suitcase is significantly lower. Therefore, I am not going to choose the 3rd suitcase since the sharp ratio is too low. 
 
 
 
